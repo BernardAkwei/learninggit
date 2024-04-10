@@ -5,4 +5,4 @@
 -Everest
 -Kilimanjaro
 
-[My math homepage:(https://math.uconn.edu/)]
+[My math homepage]:(https://math.uconn.edu/)
