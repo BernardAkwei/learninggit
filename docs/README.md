@@ -9,3 +9,5 @@
 [My math homepage](https://math.uconn.edu/)
 
 ![An image](./picture.jpeg)
+
+[My CV](./CV.md)
