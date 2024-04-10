@@ -6,4 +6,4 @@
 -Kilimanjaro
 
 [My math homepage](https://math.uconn.edu/)
-![An image](./Wallpapers HD Cute Scene Mac Background Sports Wallpapers Mac.jpeg)
+![An image](./docs/Wallpapers HD Cute Scene Mac Background Sports Wallpapers Mac.jpeg)
