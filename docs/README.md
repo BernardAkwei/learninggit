@@ -10,4 +10,3 @@
 
 ![An image](./picture.jpeg)
 
-[My CV](./CV.md)
