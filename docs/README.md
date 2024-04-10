@@ -2,6 +2,7 @@
 ## Today's course
 
 ## Mountains climbed
+
 -Everest
 -Kilimanjaro
 
